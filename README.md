@@ -1,4 +1,4 @@
-# Hogyan tanul meg az AI programozni?
+# Hogyan tanul meg az AI amőbázni?
 
 A ["Formáld a világod!"](https://verseny.c3.hu/) verseny kapcsán az egyik workshop interaktív anyagrésze.
 
